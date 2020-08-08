@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+}
+
+#Highscores {
+    text-align:left;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#timer {
+    text-align:right;
+    margin-right:150px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#welcomeMessage {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    height:250px;
+    width:100%;
+}
+
+#title {
+    margin-top:100px;
+}
+
+#button{
+    background-color:mediumvioletred;
+    color:white;
+}

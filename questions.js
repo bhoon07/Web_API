@@ -1,17 +1,17 @@
 var questions= [
     {
-        title:"question1",
-        choices:["choice1","choice2","choice3"],
-        answer:"correct answer",
+        title:"What does HTML stand for?",
+        choices:["Hypertext Markup Language","Hypertext Madeup Linguistics","How To Make Language"],
+        answer:"Hypertext Markup Language",
     },
     {
-        title:"question2",
-        choices:["choice1","choice2","choice3"],
-        answer:"correct answer",
+        title:"What does CSS stand for?",
+        choices:["Cascading Sheet Style","Cascading Style Sheets","Cascading Style Sheet"],
+        answer:"Cascading Style Sheets",
     },
     {
-        title:"question3",
-        choices:["choice1","choice2","choice3"],
-        answer:"correct answer",
+        title:"What length of time are intervals measured in?",
+        choices:["Seconds","Thousandths of a Second","Tenths of a Second"],
+        answer:"Thousandths of a Second",
     },
 ]
